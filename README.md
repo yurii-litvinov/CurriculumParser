@@ -1,5 +1,7 @@
 # CurriculumParser
 
+[![Travis Build Status](https://travis-ci.org/yurii-litvinov/CurriculumParser.svg?branch=master)](https://travis-ci.org/yurii-litvinov/CurriculumParser)
+
 Инструмент для автоматизации получения информации о дисциплинах из учебных планов СПбГУ.
 
 ## Зависимости
