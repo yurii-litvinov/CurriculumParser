@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "CurriculumParser", "CurriculumParser.fsproj", "{A6F69154-40B1-46CD-A961-F7629FA96358}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tests", "Tests\Tests.fsproj", "{3B8E4D8C-E562-4C8B-B7A7-35225ADC1C55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6F69154-40B1-46CD-A961-F7629FA96358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F69154-40B1-46CD-A961-F7629FA96358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F69154-40B1-46CD-A961-F7629FA96358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F69154-40B1-46CD-A961-F7629FA96358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B8E4D8C-E562-4C8B-B7A7-35225ADC1C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8E4D8C-E562-4C8B-B7A7-35225ADC1C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8E4D8C-E562-4C8B-B7A7-35225ADC1C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8E4D8C-E562-4C8B-B7A7-35225ADC1C55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7361B162-9424-429E-894B-C13822659FB8}
+	EndGlobalSection
+EndGlobal
